@@ -1,4 +1,4 @@
-# proj01
+# projectSinglePage01
 
 ## Project setup
 ```
